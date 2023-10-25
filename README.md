@@ -1,3 +1,7 @@
+This is my attempt at the QR Code Challenge found on [Frontend Mentor](https://www.frontendmentor.io). Below are the instructions.
+
+##
+
 # Frontend Mentor - QR code component
 
 ![Design preview for the QR code component coding challenge](./design/desktop-preview.jpg)
