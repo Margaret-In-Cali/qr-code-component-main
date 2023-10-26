@@ -23,8 +23,8 @@ Screenshot of mobile design
 
 ### Links
 
-- Solution URL: [Frontend Mentor Solution](https://www.frontendmentor.io/solutions/responsive-qr-code-page-1l9b_yNchZ)
-- Live Site URL: [GitHub Pages](https://margaret-in-cali.github.io/qr-code-component-main/)
+- Solution URL: <a href="https://www.frontendmentor.io/solutions/responsive-qr-code-page-1l9b_yNchZ" target="_blank">Frontend Mentor Solution</a>
+- Live Site URL: <a href="https://margaret-in-cali.github.io/qr-code-component-main/" target="_blank">GitHub Pages</a>
 
 ## My process
 
