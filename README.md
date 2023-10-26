@@ -17,9 +17,11 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Screenshot
 
-![](./images/mobile-screenshot.png)
-
-Screenshot of mobile design
+<figure>
+    <img src="images/mobile-screenshot.png"
+         alt="Screenshot of mobile QR code">
+    <figcaption>Screenshot of mobile design</figcaption>
+</figure>
 
 ### Links
 
